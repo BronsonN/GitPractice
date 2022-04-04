@@ -8,5 +8,8 @@ Mr Burns
 SideShowBob
 Smithers
 Moe
-Grounds Keeper Willie
+GroundsKeeper Willie
 Radioactive Man
+Mayor Quimby
+Kent Brockman
+Dr Hibbert
