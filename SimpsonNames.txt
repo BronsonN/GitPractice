@@ -4,4 +4,6 @@ Lisa
 Maggie
 Bart
 Krusty
-Mr BurnsApu
+Mr Burns
+SideShowBob
+Smithers
