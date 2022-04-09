@@ -16,3 +16,6 @@ Dr HibbertNelson
 
 Edna
 Moleman
+Ned Flanders
+Apu
+random
