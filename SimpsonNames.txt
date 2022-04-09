@@ -13,3 +13,5 @@ Radioactive Man
 Mayor Quimby
 Kent Brockman
 Dr HibbertNelson
+
+Edna
